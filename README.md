@@ -29,13 +29,14 @@ Refer the paper here:
 
 - Basic NN Architecture - The Sequential Model:
 
-![sequenrtial](/img/4.png)
-
-![basic NN architecture](/img/5.png)
+![sequential](/img/4.png)
 
 - 5 input Nodes, 8 Hidden Nodes and 2 output nodes:
 
-###### The 5 input nodes are for - "the x pos from height, y pos from nearest width, top pos, bottom pos, velocity of the car"   
+##### The 5 input nodes are for - "the x pos from height, y pos from nearest width, top pos, bottom pos, velocity of the car"   
+
+
+![basic NN architecture](/img/5.png)
 
 ![nav](/img/7.png)
 
