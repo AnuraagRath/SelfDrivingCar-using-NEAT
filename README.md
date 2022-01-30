@@ -17,9 +17,7 @@ Multiple versions of the Agent are made to explore the environment to navigate a
 
 The Algorithm used is NEAT. Neuroevolution of Augmenting Topologies. 
 
-Refer the paper here:
-
-[NEAT](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
+Refer the paper here: [NEAT](http://nn.cs.utexas.edu/downloads/papers/stanley.ec02.pdf)
 
 - Mutation:
 
@@ -33,7 +31,7 @@ Refer the paper here:
 
 - 5 input Nodes, 8 Hidden Nodes and 2 output nodes:
 
-##### The 5 input nodes are for - "the x pos from height, y pos from nearest width, top pos, bottom pos, velocity of the car"   
+##### The 5 input nodes take in - "the x pos from height, y pos from nearest width, top pos, bottom pos, velocity of the car"   
 
 
 ![basic NN architecture](/img/5.png)
