@@ -33,6 +33,10 @@ Refer the paper here:
 
 ![basic NN architecture](/img/5.png)
 
+- 5 input Nodes, 8 Hidden Nodes and 2 output nodes:
+
+###### The 5 input nodes are for - "the x pos from height, y pos from nearest width, top pos, bottom pos, velocity of the car"   
+
 ![nav](/img/7.png)
 
 ## Final result:
